@@ -3,6 +3,8 @@
 #      Updated on August 8th, 2023
 #  -----------------------------------
 
+# test test 123
+
 """ This bot is meant to act as a useful tool for a chess-related discord with various 
     commands which call the Lichess or chess.com API for stats, to create games, etc.
     Currently, games can only be created on Lichess because of Chess.com's API limitations.
